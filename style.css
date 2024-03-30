@@ -1,0 +1,30 @@
+
+
+ body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px auto; /* Removed spaces before and after hyphens */
+    text-align: center; /* Removed spaces before and after hyphens */
+    font-size: 150%; /* Removed space before percentage */
+    background-image: url(./images/wp2409705.jpg); /* Removed spaces before and after hyphens */
+    background-color: green; /* Removed spaces before and after hyphens */
+    height: 800px; /* Removed spaces before and after hyphens */
+    background-position: center; /* Removed spaces before and after hyphens */
+    background-repeat: no-repeat; /* Removed spaces before and after hyphens */
+    background-size: cover; /* Removed spaces before and after hyphens */
+    height: 60vh; /* Removed space before percentage */
+    width: 100vw; /* Removed space before percentage */
+    overflow: hidden; /* Removed spaces before and after hyphens */
+}
+
+input {
+    font-size: 100%; /* Removed space before percentage */
+    text-align: center; /* Removed spaces before and after hyphens */
+    padding: 5px 7px; /* Removed spaces before and after hyphens */
+}
+
+canvas {
+    background-color: grey; /* Removed spaces before and after hyphens */
+    border-radius: 20px; /* Removed spaces before and after hyphens */
+    box-shadow: 3px 5px 6px black; /* Removed spaces before and after hyphens */
+    margin-right: 40px; /* Removed spaces before and after hyphens */
+}
